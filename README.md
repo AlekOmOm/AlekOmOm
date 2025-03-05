@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)
 ![](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
 
