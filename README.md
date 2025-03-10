@@ -11,7 +11,7 @@
 ## 📫 Contact Me
 
 - LinkedIn: [x](https://linkedin.com/in/Aleksander)
-- Email: alekellegard@gmail.com
+- Email: alekellegard@protonmail.com
 
 ---
 ⭐️ Feel free to check out my repositories and contribute!
