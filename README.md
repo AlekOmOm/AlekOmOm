@@ -6,7 +6,7 @@
 - **Frameworks & Libraries**: Spring, React
 - **Databases**: MySQL, MangoDB
 - **Tools**: Docker, Git, GitHub Actions, Maven, Postman
-- **Networking**: Self-hosting Full-stackk apps
+- **Networking**: Self-hosting Full-stack apps
 
 ## 📫 Contact Me
 
