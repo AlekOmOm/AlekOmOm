@@ -10,7 +10,6 @@
 
 ## 📫 Contact Me
 
-- LinkedIn: [x](https://linkedin.com/in/Aleksander)
 - Email: alekellegard@protonmail.com
 
 ---
