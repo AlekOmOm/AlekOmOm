@@ -15,7 +15,7 @@
 ---
 ⭐️ Feel free to check out my repositories and contribute!
 
-![](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=AlekOmOm&color=blue&style=flat)
 
 
 <!--
