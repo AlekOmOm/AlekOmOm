@@ -3,10 +3,10 @@
 ## 🚀 Tech Stack
 
 - **Languages**: Java, Python, JavaScript, SQL, HTML, CSS
-- **Frameworks & Libraries**: Spring, React, Flask
+- **Frameworks & Libraries**: Spring, React, Flask, LangChain
 - **Databases**: MySQL, MangoDB
 - **Tools**: Docker, Git, GitHub Actions, Maven, Postman
-- **Networking**: Self-hosting Full-stack apps
+- **Networking**: Self-hosting for Full-stack apps in Full lifecycle (Prod, Dev and Staging)
 
 ## 📫 Contact Me
 
