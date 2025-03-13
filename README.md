@@ -2,7 +2,7 @@
 
 ## 🚀 Tech Stack
 
-- **Languages**: Java, Python, JavaScript, SQL, HTML, CSS
+- **Languages**: ***Java***, ***Python***, ***JavaScript***, ***SQL***, ***HTML***, ***CSS***
 - **Frameworks & Libraries**: Spring, React, Flask, LangChain
 - **Databases**: MySQL, MangoDB
 - **Tools**: Docker, Git, GitHub Actions, Maven, Postman
