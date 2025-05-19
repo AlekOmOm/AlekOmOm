@@ -4,7 +4,7 @@
 
 - **Languages**: Java, Python, JavaScript, SQL, HTML, CSS
 - **Frameworks & Libraries**: Spring, React, Flask, LangChain
-- **Databases**: MySQL, MongoDB
+- **Databases**: Postgresql, MySQL, MongoDB
 - **Tools**: Docker, Git, GitHub Actions, Maven, Postman
 - **Networking**: Debian Home-server (Self-hosting for Full-stack apps in Full lifecycle (Prod, Dev and Staging) )
 
